@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://L-Lawliet-dn.github.io/Dictionary-App",
+  "homepage": "https://github.com/L-Lawliet-dn/Dictionary-App",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
